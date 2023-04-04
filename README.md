@@ -1,3 +1,5 @@
+colab https://colab.research.google.com/drive/1DoT1pXWXAO7ZDFTyS2Mky4_5qlh-8mTV?usp=sharing
+
 # ez-text2vid
 
 <p align="center">
